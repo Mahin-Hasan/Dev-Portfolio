@@ -225,3 +225,12 @@ textarea {
     border: 0;
     width: 100%;
 }
+.hide{
+    display: none;
+}
+/* Responsive layout */
+
+/* mobile device */
+@media screen and (max-width:576px){
+
+}
