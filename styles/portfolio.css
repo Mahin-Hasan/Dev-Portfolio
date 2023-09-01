@@ -232,5 +232,10 @@ textarea {
 
 /* mobile device */
 @media screen and (max-width:576px){
-
+    .skills-container {
+        flex-direction: column;
+    }
+    #what-i-do-description {
+        padding: 20px;
+    }
 }
